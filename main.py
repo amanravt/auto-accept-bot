@@ -8,7 +8,7 @@ ch2_link=os.environ.get('CH2_LINK','https://t.me/+IETklb-PG08xYTBl')
 
 
 ch1_title=os.environ.get('CH1_TITLE','🍿 All Movies Uploaded Here 🍿')
-ch2_title=os.environ.get('CH2_TITLE','🔞 Sunny Leone XXX Video's 🔞')
+ch2_title=os.environ.get('CH2_TITLE',"🔞 Sunny Leone XXX Video's 🔞")
 
 
 BOT_TOKEN=os.environ.get('BOT_TOKEN','5631379160:AAEDb6EqIUSXeGKpSCtYErQH98fMDu0Efkc')

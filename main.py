@@ -3,15 +3,15 @@ from pyrogram import Client, filters
 from pyrogram.types import ChatJoinRequest, InlineKeyboardButton, InlineKeyboardMarkup
 import os
 
-ch1_link=os.environ.get('CH1_LINK','https://t.me/crazebots')
-ch2_link=os.environ.get('CH2_LINK','https://t.me/crazebots')
+ch1_link=os.environ.get('CH1_LINK','https://t.me/+IETklb-PG08xYTBl')
+ch2_link=os.environ.get('CH2_LINK','https://t.me/+IETklb-PG08xYTBl')
 
 
-ch1_title=os.environ.get('CH1_TITLE','👉 Channel 1 👈')
-ch2_title=os.environ.get('CH2_TITLE','👉 Channel 2 👈')
+ch1_title=os.environ.get('CH1_TITLE','🍿 All Movies Uploaded Here 🍿')
+ch2_title=os.environ.get('CH2_TITLE','🔞 Sunny Leone XXX Video's 🔞')
 
 
-BOT_TOKEN=os.environ.get('BOT_TOKEN','5423826084:AAG5ESfMQPvDRgVv8dwcWWzgkt6sgVh1Wno')
+BOT_TOKEN=os.environ.get('BOT_TOKEN','5631379160:AAEDb6EqIUSXeGKpSCtYErQH98fMDu0Efkc')
 
 API_ID = 16514976
 API_HASH = '40bd8634b3836468bb2fb7eafe39d81a'
